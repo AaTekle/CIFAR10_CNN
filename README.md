@@ -14,7 +14,7 @@ Our initial model architecture comprises several layers:
 - Dense Layers for classification
 
 ## Iterative Development
-As I move forward, I plan to iteratively refine the model. This includes adapting to new findings, integrating cutting-edge techniques, and continuously evaluating the model's performance.
+As I move forward, I plan to iteratively refine the model. Continuously evaluating the model's performance and integrating cutting-edge techniques.
 
 ## Citation
 If using the CIFAR-10 dataset, please cite:
