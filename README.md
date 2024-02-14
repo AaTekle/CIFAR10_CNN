@@ -7,7 +7,7 @@ This project focuses on building and refining a Convolutional Neural Network (CN
 The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. The dataset is divided into 50,000 training images and 10,000 test images. It includes classes such as airplanes, cars, birds, cats, etc.
 
 ## Model Architecture
-Our initial model architecture comprises several layers:
+The initial model architecture comprises several layers:
 - Convolutional Layers with ReLU activation
 - MaxPooling Layers for downsampling
 - Dropout Layers to prevent overfitting
